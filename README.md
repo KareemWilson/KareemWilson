@@ -1,12 +1,14 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KareemWilson" alt="KareemWilson" /> </p>
 <h1 align="center">
   Welcome to Kareem Wilson's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/kareem-wilson/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kareem-wilson" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/kareem-wilson/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kareem-wilson" height="30" width="30"/></a>&nbsp;
 <a href="https://www.instagram.com/code.afternoon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codeafternoon" height="30" width="30" /></a>&nbsp;
 </p>
 <p align="center">
@@ -57,6 +59,7 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 📊 Github stats
 
@@ -68,3 +71,5 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
