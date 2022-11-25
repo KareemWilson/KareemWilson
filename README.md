@@ -1,4 +1,4 @@
-<p align="center"> Each Error happens in your code is a blessing from heaven to teach you</p>
+<p align="center">"Each Error happens in your code is a blessing from heaven to teach you"</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KareemWilson" alt="KareemWilson" /> </p>
 <h1 align="center">
